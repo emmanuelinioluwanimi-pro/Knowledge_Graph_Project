@@ -95,9 +95,9 @@ def process_manual(pdf_path, product_code):
 
 
 # ==================== CONFIG ====================
-NEO4J_URI = "neo4j+s://1591b28f.databases.neo4j.io"
-NEO4J_USER = "1591b28f"
-NEO4J_PASSWORD = "QGpLWndOHztayrsUMGGP4J3Kr-aE6BXStz_1GLG3r3M"
+NEO4J_URI = "****************************"
+NEO4J_USER = "*******"
+NEO4J_PASSWORD = "***************************"
 # ===============================================
 
 if __name__ == "__main__":
